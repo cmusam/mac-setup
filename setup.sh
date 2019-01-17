@@ -3,6 +3,8 @@
 
 brew cask install java
 brew install maven
+brew install wget
+brew install youtube-dl
 brew install tree
 brew install python
 brew install awscli
