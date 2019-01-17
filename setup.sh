@@ -5,6 +5,7 @@ brew cask install java
 brew install maven
 brew install tree
 brew install python
+brew install awscli
 
 brew cask install 1password
 brew cask install dropbox
