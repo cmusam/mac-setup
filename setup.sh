@@ -8,7 +8,6 @@ brew cask install java
 brew install htop
 brew install maven
 brew install node
-brew install python
 brew install tldr
 brew install tree
 brew install wget
