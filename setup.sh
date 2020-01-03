@@ -16,7 +16,6 @@ brew install youtube-dl
 # brew cask install: graphical applications
 # https://formulae.brew.sh/cask/
 brew cask install 1password
-brew cask install adobe-acrobat-reader
 brew cask install clion
 brew cask install dropbox
 brew cask install expressvpn  # may fail
@@ -26,6 +25,9 @@ brew cask install skype
 brew cask install slack
 brew cask install sublime-text
 brew cask install wechat
+
+# require password
+brew cask install adobe-acrobat-reader
 
 # cloud
 brew install awscli
